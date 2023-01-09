@@ -10,3 +10,4 @@
 2023-01-09T00:00:00 - perf: optimize performance
 2023-01-09T00:00:00 - feat: add data support
 2023-01-09T00:00:00 - fix: correct model training
+2023-01-09T00:00:00 - fix: handle edge cases
