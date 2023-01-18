@@ -23,3 +23,4 @@
 2023-01-12T00:00:00 - test: add integration tests
 2023-01-13T00:00:00 - chore: update dependencies
 2023-01-18T00:00:00 - test: improve coverage
+2023-01-18T00:00:00 - style: fix formatting
