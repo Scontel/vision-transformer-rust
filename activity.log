@@ -77,3 +77,4 @@
 2023-02-28T00:00:00 - chore: update dependencies
 2023-02-28T00:00:00 - feat: add data support
 2023-02-28T00:00:00 - test: add integration tests
+2023-03-02T00:00:00 - perf: speed up inference
