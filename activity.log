@@ -80,3 +80,4 @@
 2023-03-02T00:00:00 - perf: speed up inference
 2023-03-02T00:00:00 - test: improve coverage
 2023-03-02T00:00:00 - fix: resolve bug
+2023-03-02T00:00:00 - refactor: modularize
