@@ -102,3 +102,4 @@
 2023-03-14T00:00:00 - feat: add data support
 2023-03-15T00:00:00 - test: add unit tests
 2023-03-16T00:00:00 - test: add integration tests
+2023-03-16T00:00:00 - test: improve coverage
