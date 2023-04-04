@@ -120,3 +120,4 @@
 2023-03-29T00:00:00 - test: add integration tests
 2023-03-30T00:00:00 - fix: correct model training
 2023-03-30T00:00:00 - fix: resolve bug
+2023-04-04T00:00:00 - test: improve coverage
