@@ -132,3 +132,4 @@
 2023-03-31T00:00:00 - docs: update README
 2023-04-05T00:00:00 - docs: update README
 2023-04-05T00:00:00 - refactor: modularize
+2023-04-06T00:00:00 - perf: speed up inference
