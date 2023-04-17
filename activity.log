@@ -139,3 +139,4 @@
 2023-04-14T00:00:00 - fix: resolve bug
 2023-04-14T00:00:00 - test: improve coverage
 2023-04-17T00:00:00 - fix: correct model training
+2023-04-17T00:00:00 - test: add integration tests
