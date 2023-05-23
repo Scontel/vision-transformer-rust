@@ -196,3 +196,4 @@
 2023-05-22T00:00:00 - test: add unit tests
 2023-05-22T00:00:00 - refactor: modularize
 2023-05-22T00:00:00 - test: improve coverage
+2023-05-23T00:00:00 - fix: handle edge cases
