@@ -216,3 +216,4 @@
 2023-05-26T00:00:00 - docs: update README
 2023-05-29T00:00:00 - test: improve coverage
 2023-05-29T00:00:00 - refactor: clean up code
+2023-05-30T00:00:00 - fix: handle edge cases
