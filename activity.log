@@ -273,3 +273,4 @@
 2023-07-04T00:00:00 - feat: implement algorithm
 2023-07-04T00:00:00 - chore: update dependencies
 2023-07-05T00:00:00 - fix: correct model training
+2023-07-05T00:00:00 - perf: reduce memory
