@@ -277,3 +277,4 @@
 2023-07-21T00:00:00 - feat: add data support
 2023-07-24T00:00:00 - refactor: clean up code
 2023-07-24T00:00:00 - feat: implement algorithm
+2023-07-25T00:00:00 - perf: speed up inference
