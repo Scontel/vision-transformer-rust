@@ -322,3 +322,4 @@
 2023-08-02T00:00:00 - perf: speed up inference
 2023-08-03T00:00:00 - refactor: clean up code
 2023-08-03T00:00:00 - docs: update README
+2023-08-03T00:00:00 - fix: handle edge cases
