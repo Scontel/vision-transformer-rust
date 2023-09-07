@@ -325,3 +325,4 @@
 2023-09-06T00:00:00 - chore: update dependencies
 2023-09-07T00:00:00 - feat: add new feature
 2023-09-07T00:00:00 - fix: correct model training
+2023-09-07T00:00:00 - perf: speed up inference
