@@ -399,3 +399,4 @@
 2023-09-27T00:00:00 - test: improve coverage
 2023-09-27T00:00:00 - refactor: clean up code
 2023-09-27T00:00:00 - feat: add data support
+2023-09-28T00:00:00 - perf: speed up inference
