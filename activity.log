@@ -390,3 +390,4 @@
 2023-10-25T00:00:00 - fix: resolve bug
 2023-10-25T00:00:00 - feat: add data support
 2023-10-26T00:00:00 - test: improve coverage
+2023-10-26T00:00:00 - refactor: modularize
