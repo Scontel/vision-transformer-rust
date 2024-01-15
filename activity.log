@@ -510,3 +510,4 @@
 2024-01-12T00:00:00 - perf: reduce memory
 2024-01-15T00:00:00 - perf: speed up inference
 2024-01-15T00:00:00 - fix: correct model training
+2024-01-15T00:00:00 - feat: add data support
