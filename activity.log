@@ -558,3 +558,4 @@
 2024-02-09T00:00:00 - docs: update README
 2024-02-09T00:00:00 - docs: add API docs
 2024-02-09T00:00:00 - test: improve coverage
+2024-02-12T00:00:00 - fix: handle edge cases
