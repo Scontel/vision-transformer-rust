@@ -578,3 +578,4 @@
 2024-02-22T00:00:00 - docs: update install guide
 2024-02-22T00:00:00 - fix: resolve bug
 2024-02-22T00:00:00 - perf: speed up inference
+2024-02-22T00:00:00 - fix: correct model training
