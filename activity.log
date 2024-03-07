@@ -605,3 +605,4 @@
 2024-03-06T00:00:00 - feat: add data support
 2024-03-06T00:00:00 - test: add integration tests
 2024-03-07T00:00:00 - test: improve coverage
+2024-03-07T00:00:00 - fix: correct model training
