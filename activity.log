@@ -637,3 +637,4 @@
 2024-03-27T00:00:00 - feat: add data support
 2024-03-28T00:00:00 - fix: handle edge cases
 2024-03-28T00:00:00 - perf: reduce memory
+2024-03-28T00:00:00 - perf: optimize performance
