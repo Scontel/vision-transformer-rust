@@ -656,3 +656,4 @@
 2024-04-12T00:00:00 - docs: update install guide
 2024-04-12T00:00:00 - chore: update dependencies
 2024-04-12T00:00:00 - feat: implement algorithm
+2024-04-15T00:00:00 - perf: reduce memory
