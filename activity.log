@@ -740,3 +740,4 @@
 2024-06-06T00:00:00 - fix: correct model training
 2024-06-06T00:00:00 - test: improve coverage
 2024-06-07T00:00:00 - perf: reduce memory
+2024-06-10T00:00:00 - perf: speed up inference
