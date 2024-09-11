@@ -873,3 +873,4 @@
 2024-09-05T00:00:00 - perf: speed up inference
 2024-09-09T00:00:00 - docs: update install guide
 2024-09-09T00:00:00 - test: improve coverage
+2024-09-11T00:00:00 - perf: reduce memory
