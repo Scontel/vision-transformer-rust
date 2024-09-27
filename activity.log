@@ -890,3 +890,4 @@
 2024-09-26T00:00:00 - test: add unit tests
 2024-09-27T00:00:00 - test: add integration tests
 2024-09-27T00:00:00 - test: add unit tests
+2024-09-27T00:00:00 - perf: reduce memory
