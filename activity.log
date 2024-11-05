@@ -941,3 +941,4 @@
 2024-10-31T00:00:00 - fix: correct model training
 2024-10-31T00:00:00 - feat: add data support
 2024-11-05T00:00:00 - perf: speed up inference
+2024-11-05T00:00:00 - feat: implement algorithm
