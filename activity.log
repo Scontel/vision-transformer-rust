@@ -1060,3 +1060,4 @@
 2024-12-30T00:00:00 - perf: reduce memory
 2024-12-30T00:00:00 - test: add unit tests
 2024-12-31T00:00:00 - fix: correct model training
+2024-12-31T00:00:00 - refactor: modularize
