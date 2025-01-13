@@ -1039,3 +1039,4 @@
 2025-01-10T00:00:00 - fix: handle edge cases
 2025-01-10T00:00:00 - docs: update install guide
 2025-01-13T00:00:00 - docs: update README
+2025-01-13T00:00:00 - perf: reduce memory
