@@ -1103,3 +1103,4 @@
 2025-01-21T00:00:00 - style: fix formatting
 2025-01-22T00:00:00 - fix: handle edge cases
 2025-01-23T00:00:00 - docs: update install guide
+2025-01-23T00:00:00 - refactor: modularize
