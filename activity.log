@@ -1157,3 +1157,4 @@
 2025-02-27T00:00:00 - feat: add data support
 2025-02-28T00:00:00 - docs: update README
 2025-03-04T00:00:00 - docs: update install guide
+2025-03-04T00:00:00 - fix: handle edge cases
