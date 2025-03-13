@@ -1173,3 +1173,4 @@
 2025-03-11T00:00:00 - perf: speed up inference
 2025-03-12T00:00:00 - fix: resolve bug
 2025-03-12T00:00:00 - docs: add API docs
+2025-03-13T00:00:00 - fix: handle edge cases
