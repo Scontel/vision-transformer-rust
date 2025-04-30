@@ -1245,3 +1245,4 @@
 2025-04-29T00:00:00 - refactor: clean up code
 2025-04-29T00:00:00 - docs: update install guide
 2025-04-30T00:00:00 - perf: optimize performance
+2025-04-30T00:00:00 - perf: speed up inference
