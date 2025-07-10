@@ -1304,3 +1304,4 @@
 2025-07-07T00:00:00 - perf: speed up inference
 2025-07-09T00:00:00 - docs: add API docs
 2025-07-10T00:00:00 - refactor: modularize
+2025-07-10T00:00:00 - chore: update dependencies
