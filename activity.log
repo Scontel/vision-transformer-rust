@@ -1363,3 +1363,4 @@
 2025-07-31T00:00:00 - test: improve coverage
 2025-08-01T00:00:00 - test: add integration tests
 2025-08-01T00:00:00 - feat: add data support
+2025-08-04T00:00:00 - fix: resolve bug
