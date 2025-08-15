@@ -1382,3 +1382,4 @@
 2025-08-13T00:00:00 - docs: add API docs
 2025-08-14T00:00:00 - refactor: improve code
 2025-08-15T00:00:00 - test: improve coverage
+2025-08-15T00:00:00 - perf: speed up inference
