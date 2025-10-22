@@ -1454,3 +1454,4 @@
 2025-10-21T00:00:00 - fix: handle edge cases
 2025-10-22T00:00:00 - chore: update dependencies
 2025-10-22T00:00:00 - docs: update install guide
+2025-10-22T00:00:00 - perf: speed up inference
