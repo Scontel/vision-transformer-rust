@@ -1452,3 +1452,4 @@
 2025-10-21T00:00:00 - perf: speed up inference
 2025-10-21T00:00:00 - feat: add data support
 2025-10-21T00:00:00 - fix: handle edge cases
+2025-10-22T00:00:00 - chore: update dependencies
