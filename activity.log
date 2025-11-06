@@ -1477,3 +1477,4 @@
 2025-11-04T00:00:00 - perf: speed up inference
 2025-11-05T00:00:00 - refactor: clean up code
 2025-11-06T00:00:00 - test: add integration tests
+2025-11-06T00:00:00 - perf: reduce memory
