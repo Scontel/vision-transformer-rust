@@ -1513,3 +1513,4 @@
 2025-11-06T00:00:00 - docs: update install guide
 2025-11-06T00:00:00 - feat: add data support
 2025-11-07T00:00:00 - perf: speed up inference
+2025-11-07T00:00:00 - chore: update dependencies
