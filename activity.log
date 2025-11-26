@@ -1542,3 +1542,4 @@
 2025-11-26T00:00:00 - perf: optimize performance
 2025-11-26T00:00:00 - perf: speed up inference
 2025-11-26T00:00:00 - feat: add data support
+2025-11-26T00:00:00 - test: add integration tests
