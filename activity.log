@@ -1569,3 +1569,4 @@
 2025-12-11T00:00:00 - fix: correct model training
 2025-12-11T00:00:00 - perf: reduce memory
 2025-12-15T00:00:00 - perf: speed up inference
+2025-12-15T00:00:00 - perf: speed up inference
