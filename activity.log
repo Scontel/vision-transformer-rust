@@ -1547,3 +1547,4 @@
 2025-12-22T00:00:00 - feat: add data support
 2025-12-22T00:00:00 - perf: speed up inference
 2025-12-24T00:00:00 - docs: add API docs
+2025-12-24T00:00:00 - refactor: improve code
