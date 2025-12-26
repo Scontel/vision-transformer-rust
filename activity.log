@@ -1585,3 +1585,4 @@
 2025-12-24T00:00:00 - refactor: modularize
 2025-12-26T00:00:00 - perf: speed up inference
 2025-12-26T00:00:00 - fix: resolve bug
+2025-12-26T00:00:00 - docs: update README
