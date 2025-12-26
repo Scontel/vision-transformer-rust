@@ -1586,3 +1586,4 @@
 2025-12-26T00:00:00 - perf: speed up inference
 2025-12-26T00:00:00 - fix: resolve bug
 2025-12-26T00:00:00 - docs: update README
+2025-12-26T00:00:00 - test: add integration tests
