@@ -1587,3 +1587,4 @@
 2025-12-26T00:00:00 - fix: resolve bug
 2025-12-26T00:00:00 - docs: update README
 2025-12-26T00:00:00 - test: add integration tests
+2025-12-29T00:00:00 - fix: handle edge cases
