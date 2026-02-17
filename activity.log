@@ -1640,3 +1640,4 @@
 2026-02-16T00:00:00 - test: add integration tests
 2026-02-17T00:00:00 - refactor: modularize
 2026-02-17T00:00:00 - test: add unit tests
+2026-02-17T00:00:00 - test: improve coverage
